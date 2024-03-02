@@ -39,5 +39,14 @@
    
 </body>
 </html>
+<script src="/scripts/login.js"></script>
+<script>
+   let  logged_In=true;
 
-<script src="script.js"></script>
+    var signupDetails=JSON.parse(localStorage.getItem("signupDetails"));
+    
+  console.log(signupDetails.userName)
+    if(logged_In==true){
+        document.getElementById("log").innerText=signupDetails.userName,"😁";
+    }
+</script>
