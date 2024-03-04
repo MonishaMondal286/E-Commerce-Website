@@ -1,142 +1,142 @@
 let womenfashionData = [
     {
-       "image":"https://images.pexels.com/photos/818043/pexels-photo-818043.jpeg?auto=compress&cs=tinysrgb&w=600",
-       "name":"iphone",
-       "description":"2 months old",
-       "price":"50,000",
+       "image":"https://images.pexels.com/photos/6502503/pexels-photo-6502503.jpeg?auto=compress&cs=tinysrgb&w=600",
+       "name":"chain",
+       "description":"cute and beautiful",
+       "price":"120rs",
     },
 
     {
-       "image":"https://images.pexels.com/photos/6373048/pexels-photo-6373048.jpeg?auto=compress&cs=tinysrgb&w=600",
-       "name":"Tab",
-       "description":"4 months old",
-       "price":"5,000",
+       "image":"https://images.pexels.com/photos/7636095/pexels-photo-7636095.jpeg?auto=compress&cs=tinysrgb&w=600",
+       "name":"Crop top",
+       "description":"stylish",
+       "price":"500rs",
     },
 
     {
-       "image":"https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
-       "name":"Laptop",
-       "description":"7 months old",
-       "price":"17,000",
+       "image":"https://images.pexels.com/photos/9303510/pexels-photo-9303510.jpeg?auto=compress&cs=tinysrgb&w=600",
+       "name":"Earing",
+       "description":"long and stylish",
+       "price":"200rs",
     },
 
     {
-       "image":"https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=600",
-       "name":"earbud",
-       "description":"4 months old",
-       "price":"2,600",
+       "image":"https://images.pexels.com/photos/8292144/pexels-photo-8292144.jpeg?auto=compress&cs=tinysrgb&w=600",
+       "name":"hair accessories",
+       "description":"cute and beautiful",
+       "price":"260rs",
     },
 
     {
-       "image":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=600",
-       "name":"Watch",
-       "description":"5 months old",
-       "price":"2,000",
+       "image":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=https://images.pexels.com/photos/1446161/pexels-photo-1446161.jpeg?auto=compress&cs=tinysrgb&w=600",
+       "name":"Jewellary",
+       "description":"beautiful",
+       "price":"900rs",
     },
 
     {
-        "image":"https://images.pexels.com/photos/13302159/pexels-photo-13302159.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Samsung",
-        "description":"4 months old",
-        "price":"20,000",
-     },
- 
-     {
-        "image":"https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Camera",
-        "description":"8 months old",
-        "price":"38,000",
-     },
- 
-     {
-        "image":"https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Headphone",
-        "description":"1 months old",
-        "price":"2,000",
-     },
- 
-     {
-        "image":"https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Mouse",
-        "description":"2 months old",
-        "price":"1,600",
-     },
- 
-     {
-        "image":"https://images.pexels.com/photos/1772123/pexels-photo-1772123.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Keyboard",
-        "description":"2 months old",
-        "price":"1,000",
-     },
-    
-     {
-        "image":"https://images.pexels.com/photos/4219863/pexels-photo-4219863.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"USB Port",
-        "description":"5 months old",
-        "price":"900",
-     },
- 
-     {
-        "image":"https://images.pexels.com/photos/5208819/pexels-photo-5208819.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Mobile Charger",
-        "description":"5 months old",
-        "price":"1,000",
-     },
- 
-     {
-        "image":"https://images.pexels.com/photos/13823992/pexels-photo-13823992.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"HP Laptop",
-        "description":"8 months old",
-        "price":"19,000",
-     },
- 
-     {
-        "image":"https://images.pexels.com/photos/19269761/pexels-photo-19269761/free-photo-of-laptop-on-a-pink-desk.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Lenovo Laptop",
-        "description":"2 months old",
-        "price":"20,600",
-     },
- 
-     {
-        "image":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Watch",
-        "description":"5 months old",
-        "price":"2,000",
-     },
-    
-     {
-        "image":"https://images.pexels.com/photos/2651794/pexels-photo-2651794.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Home Theatre",
-        "description":"12 months old",
+        "image":"https://images.pexels.com/photos/16556019/pexels-photo-16556019/free-photo-of-woman-in-a-beautiful-traditional-dress.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Lehenga",
+        "description":"long and cute",
         "price":"5,000",
      },
  
      {
-        "image":"https://images.pexels.com/photos/6186813/pexels-photo-6186813.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Television",
-        "description":"14 months old",
-        "price":"5,000",
+        "image":"https://images.pexels.com/photos/15181109/pexels-photo-15181109/free-photo-of-woman-in-traditional-bridal-saree-dress.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Saree",
+        "description":"pretty and cute",
+        "price":"4,000",
      },
  
      {
-        "image":"https://images.pexels.com/photos/3199028/pexels-photo-3199028.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Radio",
-        "description":"17 months old",
+        "image":"https://images.pexels.com/photos/2285500/pexels-photo-2285500.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Heels",
+        "description":"long and stylish",
         "price":"1,000",
      },
  
      {
-        "image":"https://images.pexels.com/photos/16592625/pexels-photo-16592625/free-photo-of-air-conditioner-in-a-house.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Air Conditioner",
-        "description":"14 months old",
-        "price":"25,600",
+        "image":"https://images.pexels.com/photos/1972115/pexels-photo-1972115.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Sport shoes",
+        "description":"comfortable and stylish",
+        "price":"1,500",
      },
  
      {
-        "image":"https://images.pexels.com/photos/15874635/pexels-photo-15874635/free-photo-of-young-woman-in-a-pink-dress-holding-a-hair-straightener.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Hair Straightener",
-        "description":"15 months old",
-        "price":"1,000",
+        "image":"https://images.pexels.com/photos/2658451/pexels-photo-2658451.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Sweater",
+        "description":"stylish and warm",
+        "price":"1,700",
+     },
+    
+     {
+        "image":"https://images.pexels.com/photos/15984040/pexels-photo-15984040/free-photo-of-model-in-jeans.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"jeans",
+        "description":"comfortable",
+        "price":"1,200",
+     },
+ 
+     {
+        "image":"https://images.pexels.com/photos/15876505/pexels-photo-15876505/free-photo-of-woman-sitting-on-log.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Jacket",
+        "description":"green colour",
+        "price":"800",
+     },
+ 
+     {
+        "image":"https://images.pexels.com/photos/6480701/pexels-photo-6480701.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"tank top",
+        "description":"short top",
+        "price":"350",
+     },
+ 
+     {
+        "image":"https://images.pexels.com/photos/6311475/pexels-photo-6311475.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"t-shirt",
+        "description":"half arm white",
+        "price":"550",
+     },
+ 
+     {
+        "image":"https://images.pexels.com/photos/9637586/pexels-photo-9637586.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"ring",
+        "description":"women beautiful ring",
+        "price":"200",
+     },
+    
+     {
+        "image":"https://images.pexels.com/photos/7685838/pexels-photo-7685838.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Bangles",
+        "description":"stylish",
+        "price":"190rs",
+     },
+ 
+     {
+        "image":"https://images.pexels.com/photos/3214138/pexels-photo-3214138.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Hat",
+        "description":"stylish and cute",
+        "price":"220",
+     },
+ 
+     {
+        "image":"https://images.pexels.com/photos/20300263/pexels-photo-20300263/free-photo-of-young-woman-in-a-crop-top-and-skirt-standing-on-a-street-in-city-at-night.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Skirt",
+        "description":"short and cute",
+        "price":"650",
+     },
+ 
+     {
+        "image":"https://images.pexels.com/photos/15768558/pexels-photo-15768558/free-photo-of-young-woman-in-a-silver-gown-and-a-tiara-on-her-head.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Gown",
+        "description":"long and beautiful",
+        "price":"2,600",
+     },
+ 
+     {
+        "image":"https://images.pexels.com/photos/15768585/pexels-photo-15768585/free-photo-of-young-woman-in-a-purple-dress-holding-a-bouquet-of-flowers.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Netted Gown",
+        "description":"long and beautiful",
+        "price":"3,000",
      },
      
 ]
@@ -163,7 +163,10 @@ let appendData = (womenfashionData)=>{
         let pricee = document.createElement("h3");
         pricee.innerHTML = price;
 
-        womenfashionDiv.append(imagee,namee,descriptionn,pricee);
+        let buttonn = document.createElement("button");
+      buttonn.textContent = "Buy";
+
+        womenfashionDiv.append(imagee,namee,descriptionn,pricee,buttonn);
         womenfashionList.append(womenfashionDiv);
 
 })

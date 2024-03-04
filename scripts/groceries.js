@@ -163,7 +163,10 @@ let appendData = (groceriesData)=>{
       let prices = document.createElement("h3");
       prices.innerText = price;
 
-      groceryDiv.append(images,names,descriptions,prices);
+      let buttonn = document.createElement("button");
+      buttonn.textContent = "Buy";
+
+      groceryDiv.append(images,names,descriptions,prices,buttonn);
       groceriesList.append(groceryDiv);
 
 

@@ -1,142 +1,142 @@
 let menfashionData = [
     {
-       "image":"https://images.pexels.com/photos/818043/pexels-photo-818043.jpeg?auto=compress&cs=tinysrgb&w=600",
-       "name":"iphone",
-       "description":"2 months old",
-       "price":"50,000",
+       "image":"https://images.pexels.com/photos/15835597/pexels-photo-15835597/free-photo-of-man-wearing-checked-shirt.jpeg?auto=compress&cs=tinysrgb&w=600",
+       "name":"shirt",
+       "description":"check shirt",
+       "price":"600rs",
     },
 
     {
-       "image":"https://images.pexels.com/photos/6373048/pexels-photo-6373048.jpeg?auto=compress&cs=tinysrgb&w=600",
-       "name":"Tab",
-       "description":"4 months old",
-       "price":"5,000",
+       "image":"https://images.pexels.com/photos/15835619/pexels-photo-15835619/free-photo-of-man-with-a-beard-wearing-polo-shirt.jpeg?auto=compress&cs=tinysrgb&w=600",
+       "name":" T-Shirt",
+       "description":"collared",
+       "price":"500rs",
     },
 
     {
-       "image":"https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
-       "name":"Laptop",
-       "description":"7 months old",
-       "price":"17,000",
+       "image":"https://images.pexels.com/photos/2589653/pexels-photo-2589653.jpeg?auto=compress&cs=tinysrgb&w=600",
+       "name":"T-shirt",
+       "description":"half sleeves",
+       "price":"600rs",
     },
 
     {
-       "image":"https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=600",
-       "name":"earbud",
-       "description":"4 months old",
-       "price":"2,600",
+       "image":"https://images.pexels.com/photos/18723999/pexels-photo-18723999/free-photo-of-elegant-brunette-in-black-and-white.jpeg?auto=compress&cs=tinysrgb&w=600",
+       "name":"jump suit",
+       "description":"men's jump suit",
+       "price":"1,000",
     },
 
     {
-       "image":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=600",
-       "name":"Watch",
-       "description":"5 months old",
-       "price":"2,000",
+       "image":"https://images.pexels.com/photos/19276437/pexels-photo-19276437/free-photo-of-young-man-in-an-elegant-outfit-standing-in-a-room-with-houseplants.jpeg?auto=compress&cs=tinysrgb&w=600",
+       "name":"t-shirt",
+       "description":"full arm",
+       "price":"950rs",
     },
 
     {
-        "image":"https://images.pexels.com/photos/13302159/pexels-photo-13302159.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Samsung",
-        "description":"4 months old",
-        "price":"20,000",
+        "image":"https://images.pexels.com/photos/15987641/pexels-photo-15987641/free-photo-of-young-man-in-a-white-t-shirt-jeans-and-a-cap-posing-in-studio-on-orange-background.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Cap",
+        "description":"cap",
+        "price":"150rs",
      },
  
      {
-        "image":"https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Camera",
-        "description":"8 months old",
-        "price":"38,000",
+        "image":"https://images.pexels.com/photos/2955376/pexels-photo-2955376.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Tie",
+        "description":"colourful",
+        "price":"400rs",
      },
  
      {
-        "image":"https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Headphone",
-        "description":"1 months old",
+        "image":"https://images.pexels.com/photos/293406/pexels-photo-293406.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"boots",
+        "description":"smart and cool",
+        "price":"1,500 rs",
+     },
+ 
+     {
+        "image":"https://images.pexels.com/photos/1432034/pexels-photo-1432034.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Sport shoes",
+        "description":"used for jogging, running etc",
+        "price":"1,000",
+     },
+ 
+     {
+        "image":"https://images.pexels.com/photos/20324484/pexels-photo-20324484/free-photo-of-black-and-white-photo-of-a-man-in-a-sweater-leather-jacket-and-sunglasses.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Jackets",
+        "description":"keeps warm and comfort",
+        "price":"1,200rs",
+     },
+    
+     {
+        "image":"https://images.pexels.com/photos/4486779/pexels-photo-4486779.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"sweat shirt",
+        "description":"full arm",
+        "price":"700",
+     },
+ 
+     {
+        "image":"https://images.pexels.com/photos/11012756/pexels-photo-11012756.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Socks",
+        "description":"comfortable",
+        "price":"50rs",
+     },
+ 
+     {
+        "image":"https://images.pexels.com/photos/6292446/pexels-photo-6292446.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Track suit",
+        "description":"warm and comfy",
         "price":"2,000",
      },
  
      {
-        "image":"https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Mouse",
-        "description":"2 months old",
-        "price":"1,600",
+        "image":"https://images.pexels.com/photos/5067669/pexels-photo-5067669.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"shorts",
+        "description":"comfortable and short",
+        "price":"300rs",
      },
  
      {
-        "image":"https://images.pexels.com/photos/1772123/pexels-photo-1772123.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Keyboard",
-        "description":"2 months old",
-        "price":"1,000",
-     },
-    
-     {
-        "image":"https://images.pexels.com/photos/4219863/pexels-photo-4219863.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"USB Port",
-        "description":"5 months old",
-        "price":"900",
-     },
- 
-     {
-        "image":"https://images.pexels.com/photos/5208819/pexels-photo-5208819.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Mobile Charger",
-        "description":"5 months old",
-        "price":"1,000",
-     },
- 
-     {
-        "image":"https://images.pexels.com/photos/13823992/pexels-photo-13823992.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"HP Laptop",
-        "description":"8 months old",
-        "price":"19,000",
-     },
- 
-     {
-        "image":"https://images.pexels.com/photos/19269761/pexels-photo-19269761/free-photo-of-laptop-on-a-pink-desk.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Lenovo Laptop",
-        "description":"2 months old",
-        "price":"20,600",
-     },
- 
-     {
-        "image":"https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Watch",
-        "description":"5 months old",
+        "image":"https://images.pexels.com/photos/15971704/pexels-photo-15971704/free-photo-of-black-and-white-photo-of-a-young-man-in-a-casual-outfit-standing-by-a-wall.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Jeans",
+        "description":"comfortable and soft",
         "price":"2,000",
      },
     
      {
-        "image":"https://images.pexels.com/photos/2651794/pexels-photo-2651794.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Home Theatre",
-        "description":"12 months old",
-        "price":"5,000",
+        "image":"https://images.pexels.com/photos/15976669/pexels-photo-15976669/free-photo-of-muscular-man-in-ripped-jeans-and-unbuttoned-shirt-standing-on-a-beach.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Torn Jeans",
+        "description":"stylish and comfortable",
+        "price":"3,000",
      },
  
      {
-        "image":"https://images.pexels.com/photos/6186813/pexels-photo-6186813.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Television",
-        "description":"14 months old",
-        "price":"5,000",
+        "image":"https://images.pexels.com/photos/3778212/pexels-photo-3778212.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"hand bag",
+        "description":"stylish",
+        "price":"850rs",
      },
  
      {
-        "image":"https://images.pexels.com/photos/3199028/pexels-photo-3199028.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Radio",
-        "description":"17 months old",
-        "price":"1,000",
+        "image":"https://images.pexels.com/photos/1687719/pexels-photo-1687719.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"chain",
+        "description":"stylish",
+        "price":"250rs",
      },
  
      {
-        "image":"https://images.pexels.com/photos/16592625/pexels-photo-16592625/free-photo-of-air-conditioner-in-a-house.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Air Conditioner",
-        "description":"14 months old",
-        "price":"25,600",
+        "image":"https://images.pexels.com/photos/15853788/pexels-photo-15853788/free-photo-of-elegant-man-in-an-office.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"Sunglass",
+        "description":"stylish ",
+        "price":"430rs",
      },
  
      {
-        "image":"https://images.pexels.com/photos/15874635/pexels-photo-15874635/free-photo-of-young-woman-in-a-pink-dress-holding-a-hair-straightener.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "name":"Hair Straightener",
-        "description":"15 months old",
-        "price":"1,000",
+        "image":"https://images.pexels.com/photos/15727980/pexels-photo-15727980/free-photo-of-hand-with-a-gold-ring.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name":"ring",
+        "description":"cute and cool",
+        "price":"150rs",
      },
      
 ]
@@ -163,7 +163,10 @@ let appendData = (menfashionData)=>{
       let pricee = document.createElement("h3");
       pricee.innerText = price;
 
-      menFashionDiv.append(imagee,namee,descriptionn,pricee);
+      let buttonn = document.createElement("button");
+      buttonn.textContent = "Buy";
+
+      menFashionDiv.append(imagee,namee,descriptionn,pricee,buttonn);
       menFashionList.append(menFashionDiv);
 
 

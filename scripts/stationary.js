@@ -163,7 +163,10 @@ let appendData = (stationaryData)=>{
       let pricee = document.createElement("h3");
       pricee.innerText = price;
 
-      stationaryDiv.append(imagee,namee,descriptionn,pricee);
+      let buttonn = document.createElement("button");
+      buttonn.textContent = "Buy";
+
+      stationaryDiv.append(imagee,namee,descriptionn,pricee,buttonn);
       stationaryList1.append(stationaryDiv);
 
 

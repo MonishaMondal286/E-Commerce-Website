@@ -163,7 +163,10 @@ let appendData = (electronicsData)=>{
       let pricee = document.createElement("h3");
       pricee.innerText = price;
 
-      productDiv.append(imagee,namee,descriptionn,pricee);
+      let buttonn = document.createElement("button");
+      buttonn.textContent = "Buy";
+
+      productDiv.append(imagee,namee,descriptionn,pricee,buttonn);
       productList.append(productDiv);
 
 

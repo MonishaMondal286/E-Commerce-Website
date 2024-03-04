@@ -171,6 +171,8 @@ a{
     height: 180px;
 }
 
+
+
 /* electronics page  */
 h1{
     text-align: center;
@@ -185,8 +187,9 @@ h1{
 }
 #electronicsList1>#productBox{
     width: 300px;
-    height: 350px;
-    border: 1px solid white;
+    height: 400px;
+    border: 1px solid lightgray;
+    margin-top: 20px;
 }
 #productBox>img{
     width: 100%;
@@ -213,8 +216,9 @@ h1{
 }
 #groceryList>#groceryBox{
     width: 300px;
-    height: 350px;
-    border: 1px solid white;
+    height: 400px;
+    border: 1px solid lightgray;
+    margin-top: 20px;
 }
 #groceryBox>img{
     width: 100%;
@@ -241,8 +245,9 @@ h1{
 }
 #stationaryList>#stationaryBox{
     width: 300px;
-    height: 350px;
-    border: 1px solid white;
+    height: 400px;
+    border: 1px solid lightgray;
+    margin-top: 20px;
 }
 #stationaryBox>img{
     width: 100%;
@@ -269,8 +274,9 @@ h1{
 }
 #menFashion>#menFashionBox{
     width: 300px;
-    height: 350px;
-    border: 1px solid white;
+    height: 400px;
+    border: 1px solid lightgray;
+    margin-top: 20px;
 }
 #menFashionBox>img{
     width: 100%;
@@ -297,8 +303,9 @@ h1{
 }
 #womenFashion>#womenfashionBox{
     width: 300px;
-    height: 350px;
-    border: 1px solid white;
+    height: 400px;
+    border: 1px solid lightgray;
+    margin-top: 20px;
 }
 #womenfashionBox>img{
     width: 100%;
@@ -312,4 +319,15 @@ h1{
 }
 #womenfashionBox>h3{
     text-align: center;
+}
+/* button */
+
+button{
+    width: 80px;
+    height: 27px;
+    border: 1px solid lightgray; 
+    margin-left: 110px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(153, 24, 24);
 }
