@@ -170,3 +170,146 @@ a{
     width: 100%;
     height: 180px;
 }
+
+/* electronics page  */
+h1{
+    text-align: center;
+}
+#electronicsList1{
+    width: 100%;
+    height: 100%;
+    border: 1px solid white;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+
+}
+#electronicsList1>#productBox{
+    width: 300px;
+    height: 350px;
+    border: 1px solid white;
+}
+#productBox>img{
+    width: 100%;
+    height: 200px;
+}
+#productBox>h2{
+    text-align: center;
+}
+#productBox>p{
+    text-align: center;
+}
+#productBox>h3{
+    text-align: center;
+}
+
+/* groceries page */
+#groceryList{
+    width: 100%;
+    height: 100%;
+    border: 1px solid white;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+
+}
+#groceryList>#groceryBox{
+    width: 300px;
+    height: 350px;
+    border: 1px solid white;
+}
+#groceryBox>img{
+    width: 100%;
+    height: 200px;
+}
+#groceryBox>h2{
+    text-align: center;
+}
+#groceryBox>p{
+    text-align: center;
+}
+#groceryBox>h3{
+    text-align: center;
+}
+
+/* stationary page */
+#stationaryList{
+    width: 100%;
+    height: 100%;
+    border: 1px solid white;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+
+}
+#stationaryList>#stationaryBox{
+    width: 300px;
+    height: 350px;
+    border: 1px solid white;
+}
+#stationaryBox>img{
+    width: 100%;
+    height: 200px;
+}
+#stationaryBox>h2{
+    text-align: center;
+}
+#stationaryBox>p{
+    text-align: center;
+}
+#stationaryBox>h3{
+    text-align: center;
+}
+
+/* menFashion page */
+#menFashion{
+    width: 100%;
+    height: 100%;
+    border: 1px solid white;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+
+}
+#menFashion>#menFashionBox{
+    width: 300px;
+    height: 350px;
+    border: 1px solid white;
+}
+#menFashionBox>img{
+    width: 100%;
+    height: 200px;
+}
+#menFashionBox>h2{
+    text-align: center;
+}
+#menFashionBox>p{
+    text-align: center;
+}
+#menFashionBox>h3{
+    text-align: center;
+}
+
+/* women's fashion */
+#womenFashion{
+    width: 100%;
+    height: 100%;
+    border: 1px solid white;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+
+}
+#womenFashion>#womenfashionBox{
+    width: 300px;
+    height: 350px;
+    border: 1px solid white;
+}
+#womenfashionBox>img{
+    width: 100%;
+    height: 200px;
+}
+#womenfashionBox>h2{
+    text-align: center;
+}
+#womenfashionBox>p{
+    text-align: center;
+}
+#womenfashionBox>h3{
+    text-align: center;
+}
