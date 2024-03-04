@@ -1,3 +1,9 @@
+import { navbar } from "../components/navbar_append.js";
+let navbar_append=document.getElementById("navbar");
+navbar_append.innerHTML=navbar();
+
+
+
 let electronicsData = [
     {
        "image":"https://images.pexels.com/photos/818043/pexels-photo-818043.jpeg?auto=compress&cs=tinysrgb&w=600",

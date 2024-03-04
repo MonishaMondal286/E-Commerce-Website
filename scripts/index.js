@@ -1,3 +1,21 @@
+import { navbar } from "../components/navbar_append.js";
+let add_navbar=document.getElementById("navbar");
+add_navbar.innerHTML=navbar();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 let productData = [
      {
         "image":"https://images.pexels.com/photos/3183132/pexels-photo-3183132.jpeg?auto=compress&cs=tinysrgb&w=600",

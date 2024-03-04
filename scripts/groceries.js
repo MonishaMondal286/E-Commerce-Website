@@ -1,3 +1,17 @@
+
+import { navbar } from "../components/navbar_append.js";
+let add_navbar=document.getElementById("navbar");
+add_navbar.innerHTML=navbar();
+
+
+
+
+
+
+
+
+
+
 let groceriesData = [
     {
        "image":"https://images.pexels.com/photos/2985167/pexels-photo-2985167.jpeg?auto=compress&cs=tinysrgb&w=600",

@@ -1,3 +1,14 @@
+import{navbar} from"../components/navbar_append.js"
+let navbar_append=document.getElementById("navbar");
+navbar_append.innerHTML=navbar()
+
+
+
+
+
+
+
+
 let stationaryData = [
     {
        "image":"https://images.pexels.com/photos/760897/pexels-photo-760897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
