@@ -1,3 +1,14 @@
+import { navbar } from "../components/navbar_append.js";
+let navbar_append = document.getElementById("navbar");
+navbar_append.innerHTML = navbar(); 
+
+
+
+
+
+
+
+
 let menfashionData = [
     {
        "image":"https://images.pexels.com/photos/15835597/pexels-photo-15835597/free-photo-of-man-wearing-checked-shirt.jpeg?auto=compress&cs=tinysrgb&w=600",
