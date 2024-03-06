@@ -4,7 +4,7 @@ navbar_append.innerHTML=navbar();
 
 
 
-let electronicsData = [
+let originalElectronicsData = [
     {
        "image":"https://images.pexels.com/photos/818043/pexels-photo-818043.jpeg?auto=compress&cs=tinysrgb&w=600",
        "name":"iphone",
@@ -148,45 +148,47 @@ let electronicsData = [
 ]
 
 
-let appendData = (electronicsData)=>{
-     
-    let productList = document.getElementById("electronicsList1");
-    productList.innerText = null;
+let electronicsDataCopy = [...originalElectronicsData]; // Copy original data for searching
+// Function to append data to the HTML
+let appendData = (data) => {
+   let productList = document.getElementById("electronicsList1");
+   productList.innerHTML = ''; // Clear previous data
 
-    electronicsData.forEach(({image,name,description,price})=>{
-      let productDiv = document.createElement("div");
-      productDiv.setAttribute("id","productBox");
+   data.forEach(({ image, name, description, price }) => {
+       let productDiv = document.createElement("div");
+       productDiv.classList.add("productBox");
 
-      let imagee = document.createElement("img");
-      imagee.src = image;
+       let imageElem = document.createElement("img");
+       imageElem.src = image;
 
-      let namee = document.createElement("h2");
-      namee.innerText = name;
+       let nameElem = document.createElement("h2");
+       nameElem.textContent = name;
 
-      let descriptionn = document.createElement("p");
-      descriptionn.innerText = description;
+       let descriptionElem = document.createElement("p");
+       descriptionElem.textContent = description;
 
-      let pricee = document.createElement("h3");
-      pricee.innerText = price;
+       let priceElem = document.createElement("h3");
+       priceElem.textContent = price;
 
-      let buttonn = document.createElement("button");
-      buttonn.textContent = "Buy";
+       let buttonElem = document.createElement("button");
+       buttonElem.textContent = "Buy";
 
-      productDiv.append(imagee,namee,descriptionn,pricee,buttonn);
-      productList.append(productDiv);
-
-
-
-    })
-
+       productDiv.append(imageElem, nameElem, descriptionElem, priceElem, buttonElem);
+       productList.appendChild(productDiv);
+   });
 }
-    appendData(electronicsData)
 
+// Initial data rendering
+appendData(electronicsDataCopy);
 
+// Search functionality
+const searchInput = document.getElementById('searchInput');
 
-
-
-
-
-
-
+searchInput.addEventListener('input', () => {
+   const searchTerm = searchInput.value.trim().toLowerCase();
+   electronicsDataCopy = originalElectronicsData.filter(item =>
+       item.name.toLowerCase().includes(searchTerm) ||
+       item.description.toLowerCase().includes(searchTerm)
+   );
+   appendData(electronicsDataCopy);
+});

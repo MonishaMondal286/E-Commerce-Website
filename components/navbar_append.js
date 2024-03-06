@@ -11,7 +11,7 @@ return `
                 <a href="">Woman's Fashion</a>
         
             </div>
-            <input type="search" placeholder="search">
+            <input id="searchInput" type="search" placeholder="search">
             <a id="log" href="login.html">Login 💂‍♂️</a>
 
 
