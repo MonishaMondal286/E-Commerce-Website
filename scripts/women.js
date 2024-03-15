@@ -180,4 +180,4 @@ let appendData = (womenfashionData)=>{
 })
 
 }
-appendData(womenfashionData)
+appendData(womenfashionData);

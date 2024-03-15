@@ -191,6 +191,18 @@ let appendData = (groceriesData)=>{
     appendData(groceriesData)
 
 
+    // Search functionality
+const searchInput = document.getElementById('searchInput');
+
+searchInput.addEventListener('input', () => {
+   const searchTerm = searchInput.value.trim().toLowerCase();
+   electronicsDataCopy = originalElectronicsData.filter(item =>
+       item.name.toLowerCase().includes(searchTerm) ||
+       item.description.toLowerCase().includes(searchTerm)
+   );
+   appendData(electronicsDataCopy);
+});
+
 
 
 
