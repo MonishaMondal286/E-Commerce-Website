@@ -4,6 +4,7 @@ function navbar(){
 return `
 
 <div class="nav">
+                 
                 <a href="electronics.html">Electronics</a>
                 <a href="groceries.html">Groceries</a>
                 <a href="stationary.html">Stationary</a>
@@ -12,6 +13,7 @@ return `
         
             </div>
             <input id="searchInput" type="search" placeholder="search">
+            <a href="">Cart👜</a> &nbsp;&nbsp;&nbsp;&nbsp;
             <a id="log" href="login.html">Login 💂‍♂️</a>
 
 
